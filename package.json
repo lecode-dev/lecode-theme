@@ -1,21 +1,53 @@
 {
-    "name": "lecode-theme",
-    "displayName": "lecode-theme",
-    "description": "",
-    "version": "0.0.1",
-    "engines": {
-        "vscode": "^1.60.0"
-    },
-    "categories": [
-        "Themes"
-    ],
-    "contributes": {
-        "themes": [
-            {
-                "label": "lecode theme",
-                "uiTheme": "vs-dark",
-                "path": "./themes/lecode theme-color-theme.json"
-            }
-        ]
+  "name": "lecode-theme",
+  "displayName": "Lecode Theme",
+  "description": "Just a Theme to Lecoders.",
+  "version": "0.0.2",
+  "author": {
+    "name": "Erickinhou"
+  },
+  "engines": {
+    "vscode": "^1.60.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lecode-dev/lecode-theme"
+  },
+  "bugs": {
+    "url": "https://github.com/lecode-dev/lecode-theme/issues"
+  },
+  "icon": "images/icon.png",
+  "galleryBanner": {
+    "color": "#21222C",
+    "theme": "dark"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "Dark theme",
+    "lecode theme",
+    "Lecode Theme",
+    "Lecode",
+    "lecode",
+    "green",
+    "black"
+  ],
+  "badges": [
+    {
+      "url": "https://img.shields.io/badge/Meet%20us-00B473",
+      "href": "https://lecode.dev/",
+      "description": "Meet us"
     }
+  ],
+  "publisher": "lecode",
+  "contributes": {
+    "themes": [
+      {
+        "label": "lecode theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/lecode theme-color-theme.json"
+      }
+    ]
+  }
 }
