@@ -1,13 +1,18 @@
-# README
-## This is the README for your extension "lecode-theme"
-You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
+# Lecode Theme for VS Code
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+CMD+V` on macOS or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (macOS) to see a list of Markdown snippets
+[![Lecode team](https://img.shields.io/badge/Made%20with%20love%20by%20lecode-💖-00B473)](https://lecode.dev/)
 
-### For more information
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+Thanks for checking out our VS Code theme.
 
-**Enjoy!**
+## Installation
+
+1. Open the extensions sidebar on Visual Studio Code
+1. Search for codeSTACKr Theme
+1. Click Install
+1. Click Reload to reload your editor
+1. Select the Manage Cog (bottom left) > Color Theme ＞ Lecode Theme
+1. 🌟🌟🌟🌟🌟 Rate five-stars 😃
+
+## Issues & Suggestions
+
+For any issues or suggestions, please use [GitHub issues](https://github.com/lecode-dev/lecode-theme/issues).
