@@ -538,7 +538,7 @@
       "name": "Constants",
       "scope": ["constant", "variable.other.constant"],
       "settings": {
-        "foreground": "#F8F8F2"
+        "foreground": "#BD93F9"
       }
     },
     {
