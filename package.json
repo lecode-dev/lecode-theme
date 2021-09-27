@@ -1,0 +1,21 @@
+{
+    "name": "lecode-theme",
+    "displayName": "lecode-theme",
+    "description": "",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.60.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "lecode theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/lecode theme-color-theme.json"
+            }
+        ]
+    }
+}
